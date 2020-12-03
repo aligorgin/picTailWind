@@ -17,6 +17,7 @@
       <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/ImagePaper.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/ImageSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
@@ -71,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606935964662</updated>
       <workItem from="1606935965707" duration="630000" />
-      <workItem from="1606940469992" duration="24093000" />
+      <workItem from="1606940469992" duration="24414000" />
     </task>
     <servers />
   </component>

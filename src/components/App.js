@@ -36,7 +36,7 @@ const App = () => {
             {!isLoading && images.length === 0 && <h1 className='text-7xl text-center mx-auto mt-32'>No Images Found</h1>}
 
             {isLoading ? <h1 className='text-7xl text-center mx-auto mt-32'>Loading.. </h1> :
-                <div className='grid grid-cols-2 md:grid-cols-3 gap-4'>
+                <div className='grid grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-4'>
                     {rerenderedImages}
                 </div>}
         </div>
